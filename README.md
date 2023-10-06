@@ -1,2 +1,2 @@
-# website-penjualan
+# websitepenjualan
 web
